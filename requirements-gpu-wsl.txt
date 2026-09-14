@@ -1,0 +1,3 @@
+# CUDA 12 runtime libraries used by CTranslate2/faster-whisper under WSL/Linux.
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
